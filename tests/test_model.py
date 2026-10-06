@@ -4,7 +4,7 @@ import os
 import pytest
 
 
-MIN_ACCURACY = 0.97
+MIN_ACCURACY = 1.01
 MIN_RECALL_POISONOUS = 0.98
 MAX_CV_STD = 0.05
 
